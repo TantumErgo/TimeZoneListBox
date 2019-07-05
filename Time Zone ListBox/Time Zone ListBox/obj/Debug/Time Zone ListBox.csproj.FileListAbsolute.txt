@@ -1,0 +1,9 @@
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\bin\Debug\Time Zone ListBox.exe.config
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time Zone ListBox.csprojResolveAssemblyReference.cache
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time_Zone_ListBox.Form1.resources
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time_Zone_ListBox.Properties.Resources.resources
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time Zone ListBox.csproj.GenerateResource.Cache
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\bin\Debug\Time Zone ListBox.exe
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\bin\Debug\Time Zone ListBox.pdb
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time Zone ListBox.exe
+c:\users\nik\documents\visual studio 2015\Projects\Time Zone ListBox\Time Zone ListBox\obj\Debug\Time Zone ListBox.pdb
